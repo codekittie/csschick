@@ -108,3 +108,7 @@ button[type=submit]:hover {
 .contactus2 {
   font-family: "Manjari", sans-serif;
 }
+
+div[data-netlify-recaptcha="true"] {
+  margin-top: 20px;
+}
