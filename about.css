@@ -1,0 +1,88 @@
+.top {
+    text-align: center;
+    font-family: "Hammersmith One", sans-serif;
+    background-image: url(maybebackground.png);
+    padding-top: 100px;
+    padding-bottom: 100px;
+    color: peachpuff;
+}
+
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: coral;
+    position: -webkit- sticky; /* Safari */
+    position: sticky;
+    top: 0;
+  }
+  
+  li {
+    float: left;
+  }
+  
+  li a {
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+  }
+  
+  li a:hover:not(.active) {
+    background-color: orangered;
+  }
+  
+  .active {
+    background-color: lightcoral;
+  }
+
+#about {
+  color: peachpuff;
+  font-family: "Hammersmith One", sans-serif;
+}
+
+p {
+  font-family: "Manjari", sans-serif;
+  color: lightslategrey;
+  font-size: 20px;
+}
+
+.aboutuscontain {
+  background-color: linen;
+  padding-bottom: 40px;
+  padding-top: 40px;
+  margin-top: 20px;
+  margin-left: 15px;
+  margin-right: 15px;
+  border-radius: 10px;
+}
+
+img {
+  width: 400px;
+  background-color: peachpuff;
+  padding-left: 20px;
+  padding-right: 20px;
+  padding-top: 20px;
+  padding-bottom: 20px;
+  height: 270px;
+  margin-top: 20px;
+}
+
+#img {
+  float: left;
+  margin-left: 50px;
+}
+
+#img2 {
+  float: right;
+  margin-right: 50px;
+}
+
+h4 {
+  text-align: center;
+  font-family: "Hammersmith One", sans-serif;
+  font-size: 20px;
+  color: lightslategrey;
+}

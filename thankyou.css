@@ -1,0 +1,33 @@
+.thankyou {
+    font-family: "Hammersmith One", sans-serif;
+    background-color: peachpuff;
+    border-radius: 25px;;
+    color: grey;
+    padding-left: 15px;
+    padding-right: 15px;
+    margin-top: 20px;
+    margin-left: 50px;
+    margin-right: 50px;
+    text-align: center;
+    padding-top: 100px;
+    padding-bottom: 100px;
+}
+
+body {
+    background: linen;
+}
+
+a {
+    font-family: "Manjari", sans-serif;
+    font-size: 20px;
+    text-align: center;
+    margin-left: 590px;
+    margin-top: 40px;
+    background-color: lightcoral;
+    border-radius: 10px;
+    color: white;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    padding-left: 5px;
+    padding-right: 5px;
+}

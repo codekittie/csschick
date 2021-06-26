@@ -1,0 +1,88 @@
+.top {
+    text-align: center;
+    font-family: "Hammersmith One", sans-serif;
+    background-image: url(maybebackground.png);
+    padding-top: 100px;
+    padding-bottom: 100px;
+    color: peachpuff;
+}
+
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: coral;
+    position: sticky;
+    top: 0;
+  }
+  
+  li {
+    float: left;
+  }
+  
+  li a {
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+  }
+  
+  li a:hover:not(.active) {
+    background-color: orangered;
+  }
+  
+  .active {
+    background-color: lightcoral;
+  }
+
+#womanimg {
+    margin-top: 50px;
+    float: left;
+    width: 350px;
+    height: 250px;
+    border-radius: 100px;
+}
+
+#whatarewe, #whatarewelookingfor {
+    font-size: 38px;
+    margin-left: 20px;
+    color: moccasin;
+    font-family: "Hammersmith One", sans-serif;
+}
+
+p {
+    font-size: 20px;
+    font-family: "Manjari", sans-serif;
+    color: lightslategray;
+}
+
+.firstpart {
+    background-color: linen;
+    border-radius: 20px;
+    float: right;
+    padding-left: 10px;
+    margin-top: 50px;
+    max-width: 900px;
+}
+
+#woman2img {
+    margin-top: 50px;
+    float: left;
+    width: 350px;
+    height: 250px;
+    border-radius: 100px;
+    left: 0px;
+    position: relative;
+}
+
+.secondpart {
+    background-color: linen;
+    border-radius: 20px;
+    position: static;
+    padding-left: 10px;
+    margin-top: 50px;
+    max-width: 800px;
+}
+
