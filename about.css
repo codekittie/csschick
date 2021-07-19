@@ -61,7 +61,7 @@ p {
 
 img {
   width: 400px;
-  background-color: peachpuff;
+  background: linear-gradient(#ffdab9, white);
   padding-left: 20px;
   padding-right: 20px;
   padding-top: 20px;

@@ -110,5 +110,5 @@ button[type=submit]:hover {
 }
 
 div[data-netlify-recaptcha="true"] {
-  margin-top: 20px;
+  margin-top: 10px;
 }
